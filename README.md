@@ -32,7 +32,8 @@ Pull request reviews ensure quality and maintain momentum of changes to your pro
 1. Review the [diff](https://docs.github.com/en/get-started/quickstart/github-glossary#diff), the comparison of the proposed code, in the context of the whole project.
 1. For most things, try out the proposed change. Check if the actual change matches the intention. Find the repository's [contributing guide](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) to find out how to review the changes.
 
-#### In your review comments:
+#### In your review comments:  
+
 
 - Identify potential issues, risks, and limitations.
 - Suggest changes and improvements.
@@ -41,7 +42,7 @@ Pull request reviews ensure quality and maintain momentum of changes to your pro
 - Highlight what the author did well and should keep doing.
 - Prioritize the most important feedback.
 - Be concise _and_ provide meaningful detail.
-- Treat the pull request author with kindness and empathy.
+- Treat the pull request author with kindness and empathy. 
 
 When an approval or request for changes is not yet needed, consider using **comments**. An **approval** lets the author know you believe the pull request is safe to merge. **Requesting changes** lets the author know you believe the pull request is not ready to merge.
 
